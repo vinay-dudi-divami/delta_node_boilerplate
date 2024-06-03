@@ -1,4 +1,17 @@
 # Delta_node
+
+# Installation Process
+
+#### Follow these steps to install and run the project:
+- Clone the repository: `https://github.com/divamidesignlabs/delta_node.git `
+- Navigate into the project directory: `cd delta_node`
+- Install the dependencies: `npm i`
+- Set up your environment variables. You can use the `dev.env` file for development.
+- Run the project: `npm start`
+- If there is an issue while `npm start` in your windows run `npm install -g win-node-env`
+
+# Modules and usage
+
 ### Husky Installation and usage
 
 - To install husky run `npm install --save-dev husky`
